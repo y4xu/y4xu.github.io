@@ -1,0 +1,44 @@
+==Yi Xu
+
+~~~
+{}{img_left}{photo.jpg}{131}{160}
+PhD Candidate,\n [https://cse.ucsd.edu/ Computer Science & Engineering Department], \n[https://ucsd.edu/ University of California San Diego (UCSD)]\n
+E-mail: y4xu@ucsd.edu
+~~~
+
+== About me
+I am a fifth year PhD candidate at the UCSD [https://www.nvsl.io/ Non-Volatile Systems Laboratory (NVSL)]. I am advised by [https://swanson.ucsd.edu/ Prof. Steven Swanson]. My main research interests span memory and storage management, programming models, distributed systems, and their intersections. 
+
+
+
+== Selected Publications 
+. Zhuque: Failure is Not an Option, it’s an Exception \n
+  George Hodgkins\*, *Yi Xu\**, Steven Swanson, Joseph Izraelevitz (\*co-first authors) \n
+  *\[ATC 23\]* \[To Appear\]
+. Clobber-NVM: Log Less, Re-execute More \n
+  *Yi Xu*, Joseph Izraelevitz, Steven Swanson \n
+  *\[ASPLOS 21\]* [clobber-nvm-extended_abstract.pdf \[extended abstract\]] [clobber-nvm.pdf \[paper\]] [https://zenodo.org/record/4322233\#.ZEwiJpHMJ3Q \[code\]]
+. Basic performance measurements of the intel optane DC persistent memory module \n
+  Joseph Izraelevitz, Jian Yang, Lu Zhang, Juno Kim, Xiao Liu, Amirsaman Memaripour, Yun Joon Soh, Zixuan Wang, *Yi Xu*, Subramanya R Dulloor, Jishen Zhao, Steven Swanson \n
+  *\[Arxiv 19\]* [optane-perf.pdf \[Preprint\]]
+
+
+== Workshops
+. Zhuque: Failure is Not an Option, it’s an Exception \n
+  George Hodgkins\*, *Yi Xu\**, Steven Swanson, Joseph Izraelevitz (\*co-first authors) \n
+  *\[NVMW 23\]* [zhuque-nvmw23-paper.pdf \[paper\]] [zhuque-nvmw23-poster.pdf \[poster\]] [zhuque-nvmw23-slides.pdf \[slides\]] [https://www.youtube.com/watch?v=OOIa3LEb3EQ \[video\]]
+. Clobber-NVM: Log Less, Re-execute More \n
+  *Yi Xu*, Joseph Izraelevitz, Steven Swanson \n
+  *\[NVMW 21\]* [clobber-nvm-nvmw21-paper.pdf \[paper\]] [clobber-nvm-nvmw21-slides.pdf \[slides\]]
+
+
+== Education
+- Sept. 2018 - Now                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PhD student in Computer Science and Enginnering, UC San Diego, USA
+- Sept. 2014 - June 2018                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~B.Sc. in Computer Science, Southeast University, China
+
+
+== Internship
+- June 2022 - Sept. 2022                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://research.vmware.com/ VMware Research Group]
+- June 2021 - Sept. 2021                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://research.vmware.com/ VMware Research Group]
+- June 2019 - Sept. 2019                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship at Oracle Inc
+- July 2017 - Sept. 2017                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://www.cs.hku.hk/ The University of Hong Kong (HKU)]
