@@ -2,19 +2,25 @@
 
 ~~~
 {}{img_left}{photo.jpg}{131}{160}
-PhD Candidate,\n [https://cse.ucsd.edu/ Computer Science & Engineering Department], \n[https://ucsd.edu/ University of California San Diego (UCSD)]\n
-E-mail: y4xu@ucsd.edu
+Postdoc,\n
+[http://www.cs.berkeley.edu/ Computer Science Division], \n
+[https://sky.cs.berkeley.edu/ Sky Computing Lab], \n
+[http://www.berkeley.edu/ University of California, Berkeley]\n
+E-mail: y4xu@berkeley.edu
 ~~~
 
 == About me
-I am a fifth year PhD candidate at the UCSD [https://www.nvsl.io/ Non-Volatile Systems Laboratory (NVSL)]. I am advised by [https://swanson.ucsd.edu/ Prof. Steven Swanson]. My main research interests span memory and storage management, programming models, distributed systems, and their intersections. 
+I'm a Postdoc at [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley, working with [http://people.eecs.berkeley.edu/~istoica/ Prof. Ion Stoica]. I earned my PhD from UC San Diego, under the supervision of [https://swanson.ucsd.edu/ Prof. Steven Swanson]. My main research interests span memory and storage management, programming models, distributed systems, and their intersections. Recently, I've been focusing on GPU and LLM memory management. 
 
 
 
 == Selected Publications 
+. IONIA: High-Performance Replication for Modern Disk-based KV Stores \n
+  Yi Xu\*, Henry Zhu\**, Prashant Pandey, Alex Conway, Rob Johnson, Ramnatthan Alagappan, Aishwarya Ganesan (\*co-first authors) \n
+  *\[FAST 24\]* \[To Appear\]
 . Zhuque: Failure is Not an Option, it’s an Exception \n
   George Hodgkins\*, *Yi Xu\**, Steven Swanson, Joseph Izraelevitz (\*co-first authors) \n
-  *\[ATC 23\]* \[To Appear\]
+  *\[ATC 23\]* [zhuque.pdf \[paper\]]
 . Clobber-NVM: Log Less, Re-execute More \n
   *Yi Xu*, Joseph Izraelevitz, Steven Swanson \n
   *\[ASPLOS 21\]* [clobber-nvm-extended_abstract.pdf \[extended abstract\]] [clobber-nvm.pdf \[paper\]] [https://zenodo.org/record/4322233\#.ZEwiJpHMJ3Q \[code\]]
@@ -31,9 +37,11 @@ I am a fifth year PhD candidate at the UCSD [https://www.nvsl.io/ Non-Volatile S
   *Yi Xu*, Joseph Izraelevitz, Steven Swanson \n
   *\[NVMW 21\]* [clobber-nvm-nvmw21-paper.pdf \[paper\]] [clobber-nvm-nvmw21-slides.pdf \[slides\]]
 
+== Work
+- Oct. 2023 - Now                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Postdoc at [https://sky.cs.berkeley.edu/ Sky Lab], UC Berkeley  
 
 == Education
-- Sept. 2018 - Now                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PhD student in Computer Science and Enginnering, UC San Diego, USA
+- Sept. 2018 - Aug. 2023                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~Ph.D. in Computer Science and Enginnering, UC San Diego, USA
 - Sept. 2014 - June 2018                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~B.Sc. in Computer Science, Southeast University, China
 
 
