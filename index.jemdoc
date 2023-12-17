@@ -16,7 +16,7 @@ I'm a Postdoc at [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley, 
 
 == Selected Publications 
 . IONIA: High-Performance Replication for Modern Disk-based KV Stores \n
-  Yi Xu\*, Henry Zhu\**, Prashant Pandey, Alex Conway, Rob Johnson, Ramnatthan Alagappan, Aishwarya Ganesan (\*co-first authors) \n
+  *Yi Xu\**, Henry Zhu\*, Prashant Pandey, Alex Conway, Rob Johnson, Ramnatthan Alagappan, Aishwarya Ganesan (\*co-first authors) \n
   *\[FAST 24\]* \[To Appear\]
 . Zhuque: Failure is Not an Option, it’s an Exception \n
   George Hodgkins\*, *Yi Xu\**, Steven Swanson, Joseph Izraelevitz (\*co-first authors) \n
@@ -37,16 +37,14 @@ I'm a Postdoc at [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley, 
   *Yi Xu*, Joseph Izraelevitz, Steven Swanson \n
   *\[NVMW 21\]* [clobber-nvm-nvmw21-paper.pdf \[paper\]] [clobber-nvm-nvmw21-slides.pdf \[slides\]]
 
-== Work
-- Oct. 2023 - Now                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Postdoc at [https://sky.cs.berkeley.edu/ Sky Lab], UC Berkeley  
 
 == Education
-- Sept. 2018 - Aug. 2023                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~Ph.D. in Computer Science and Enginnering, UC San Diego, USA
+- Sept. 2018 - Aug. 2023                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Ph.D. in Computer Science and Enginnering, UC San Diego, USA
 - Sept. 2014 - June 2018                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~B.Sc. in Computer Science, Southeast University, China
 
 
 == Internship
-- June 2022 - Sept. 2022                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://research.vmware.com/ VMware Research Group]
+- June 2022 - Sept. 2022                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://research.vmware.com/ VMware Research Group]
 - June 2021 - Sept. 2021                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://research.vmware.com/ VMware Research Group]
 - June 2019 - Sept. 2019                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship at Oracle Inc
-- July 2017 - Sept. 2017                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://www.cs.hku.hk/ The University of Hong Kong (HKU)]
+- July 2017 - Sept. 2017                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://www.cs.hku.hk/ The University of Hong Kong (HKU)]
