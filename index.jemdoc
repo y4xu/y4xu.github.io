@@ -15,9 +15,15 @@ I'm a Postdoc at [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley, 
 
 
 == Selected Publications 
+. Pie: Pooling CPU Memory for LLM Inference \n
+  *Yi Xu*, Ziming Mao, Xiangxi Mo, Shu Liu, Ion Stoica \n
+  *\[arXiv preprint 24\]* [pie.pdf \[paper\]]
+. CXL Shared Memory Programming: Barely Distributed and Almost Persistent \n
+  *Yi Xu*, Suyash Mahar, Ziheng Liu, Mingyao Shen, Steven Swanson \n
+  *\[arXiv preprint 24\]* [cxl-failure-model.pdf \[paper\]]
 . IONIA: High-Performance Replication for Modern Disk-based KV Stores \n
   *Yi Xu\**, Henry Zhu\*, Prashant Pandey, Alex Conway, Rob Johnson, Ramnatthan Alagappan, Aishwarya Ganesan (\*co-first authors) \n
-  *\[FAST 24\]* \[To Appear\]
+  *\[FAST 24\]* [ionia.pdf \[paper\]]
 . Zhuque: Failure is Not an Option, it’s an Exception \n
   George Hodgkins\*, *Yi Xu\**, Steven Swanson, Joseph Izraelevitz (\*co-first authors) \n
   *\[ATC 23\]* [zhuque.pdf \[paper\]]
