@@ -2,19 +2,17 @@
 
 ~~~
 {}{img_left}{photo.jpg}{318}{212}
-Postdoc,\n
-[http://www.cs.berkeley.edu/ Computer Science Division], \n
-[https://sky.cs.berkeley.edu/ Sky Computing Lab], \n
-[http://www.berkeley.edu/ University of California, Berkeley]\n
-E-mail: y4xu@berkeley.edu
+Research Scientist,\n
+[https://www.meta.com/ Meta]\n
+E-mail: y4xu@ucsd.edu
 ~~~
 
 == About me
-I'm a Postdoc at [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley, working with [http://people.eecs.berkeley.edu/~istoica/ Prof. Ion Stoica]. I earned my PhD from UC San Diego, under the supervision of [https://swanson.ucsd.edu/ Prof. Steven Swanson]. My main research interests span memory and storage management, programming models, distributed systems, and their intersections. Recently, I've been focusing on GPU and LLM memory management. 
+I'm a Research Scientist at [https://www.meta.com/ Meta]. Previously, I was a Postdoc at [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley, working with [http://people.eecs.berkeley.edu/~istoica/ Prof. Ion Stoica]. I earned my PhD from UC San Diego, under the supervision of [https://swanson.ucsd.edu/ Prof. Steven Swanson]. My main research interests span memory and storage management, programming models, distributed systems, and their intersections. Recently, I've been focusing on GPU and LLM memory management.
 
 
 
-== Selected Publications 
+== Selected Publications
 . Pie: Pooling CPU Memory for LLM Inference \n
   *Yi Xu*, Ziming Mao, Xiangxi Mo, Shu Liu, Ion Stoica \n
   *\[arXiv preprint 24\]* [pie.pdf \[paper\]]
@@ -32,7 +30,13 @@ I'm a Postdoc at [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley, 
   *\[ASPLOS 21\]* [clobber-nvm-extended_abstract.pdf \[extended abstract\]] [clobber-nvm.pdf \[paper\]] [https://zenodo.org/record/4322233\#.ZEwiJpHMJ3Q \[code\]]
 . Basic performance measurements of the intel optane DC persistent memory module \n
   Joseph Izraelevitz, Jian Yang, Lu Zhang, Juno Kim, Xiao Liu, Amirsaman Memaripour, Yun Joon Soh, Zixuan Wang, *Yi Xu*, Subramanya R Dulloor, Jishen Zhao, Steven Swanson \n
-  *\[Arxiv 19\]* [optane-perf.pdf \[Preprint\]]
+  *\[arXiv preprint 19\]* [optane-perf.pdf \[paper\]]
+
+
+== Other Publications
+. SkyNomad: On Using Multi-Region Spot Instances to Minimize AI Batch Job Cost \n
+  Zhifei Li, Tian Xia, Ziming Mao, Zihan Zhou, Ethan J. Jackson, Jamison Kerney, Zhanghao Wu, Pratik Mishra, *Yi Xu*, Yifan Qiao, Scott Shenker, Ion Stoica \n
+  *\[arXiv preprint 26\]* [https://arxiv.org/abs/2601.06520 \[paper\]]
 
 
 == Workshops
@@ -45,12 +49,14 @@ I'm a Postdoc at [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley, 
 
 
 == Education
-- Sept. 2018 - Aug. 2023                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Ph.D. in Computer Science and Enginnering, UC San Diego, USA
+- Sept. 2018 - Aug. 2023                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Ph.D. in Computer Science and Engineering, UC San Diego, USA
 - Sept. 2014 - June 2018                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~B.Sc. in Computer Science, Southeast University, China
 
 
-== Internship
-- June 2022 - Sept. 2022                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://research.vmware.com/ VMware Research Group]
-- June 2021 - Sept. 2021                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://research.vmware.com/ VMware Research Group]
-- June 2019 - Sept. 2019                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship at Oracle Inc
-- July 2017 - Sept. 2017                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship in [https://www.cs.hku.hk/ The University of Hong Kong (HKU)]
+== Experience
+- Aug. 2025 - Present                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research Scientist, [https://www.meta.com/ Meta]
+- Aug. 2023 - Aug. 2025                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Postdoc, [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley (advisor: [http://people.eecs.berkeley.edu/~istoica/ Prof. Ion Stoica])
+- June 2022 - Sept. 2022                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship, [https://research.vmware.com/ VMware Research Group]
+- June 2021 - Sept. 2021                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship, [https://research.vmware.com/ VMware Research Group]
+- June 2019 - Sept. 2019                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship, Oracle Inc
+- July 2017 - Sept. 2017                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Research internship, [https://www.cs.hku.hk/ The University of Hong Kong (HKU)]
