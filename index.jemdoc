@@ -49,20 +49,18 @@ I'm a Research Scientist at [https://www.meta.com/ Meta]. Previously, I was a Po
 
 
 == Education
-~~~
-{}{table}{}
-Sept. 2018 - Aug. 2023 | Ph.D. in Computer Science and Engineering, UC San Diego, USA ||
-Sept. 2014 - June 2018 | B.Sc. in Computer Science, Southeast University, China ||
-~~~
+{{<table style="border:none; border-collapse:collapse;">
+<tr><td style="border:none; padding-right:2em; white-space:nowrap;">Sept. 2018 &ndash; Aug. 2023</td><td style="border:none;">Ph.D. in Computer Science and Engineering, UC San Diego, USA</td></tr>
+<tr><td style="border:none; padding-right:2em; white-space:nowrap;">Sept. 2014 &ndash; June 2018</td><td style="border:none;">B.Sc. in Computer Science, Southeast University, China</td></tr>
+</table>}}
 
 
 == Experience
-~~~
-{}{table}{}
-Aug. 2025 - Present | Research Scientist, [https://www.meta.com/ Meta] ||
-Aug. 2023 - Aug. 2025 | Postdoc, [https://sky.cs.berkeley.edu/ Sky Computing Lab], UC Berkeley (advisor: [http://people.eecs.berkeley.edu/~istoica/ Prof. Ion Stoica]) ||
-June 2022 - Sept. 2022 | Research internship, [https://research.vmware.com/ VMware Research Group] ||
-June 2021 - Sept. 2021 | Research internship, [https://research.vmware.com/ VMware Research Group] ||
-June 2019 - Sept. 2019 | Research internship, Oracle Inc ||
-July 2017 - Sept. 2017 | Research internship, [https://www.cs.hku.hk/ The University of Hong Kong (HKU)] ||
-~~~
+{{<table style="border:none; border-collapse:collapse;">
+<tr><td style="border:none; padding-right:2em; white-space:nowrap;">Aug. 2025 &ndash; Present</td><td style="border:none;">Research Scientist, <a href="https://www.meta.com/" target="blank">Meta</a></td></tr>
+<tr><td style="border:none; padding-right:2em; white-space:nowrap;">Aug. 2023 &ndash; Aug. 2025</td><td style="border:none;">Postdoc, <a href="https://sky.cs.berkeley.edu/" target="blank">Sky Computing Lab</a>, UC Berkeley (advisor: <a href="http://people.eecs.berkeley.edu/~istoica/" target="blank">Prof. Ion Stoica</a>)</td></tr>
+<tr><td style="border:none; padding-right:2em; white-space:nowrap;">June 2022 &ndash; Sept. 2022</td><td style="border:none;">Research internship, <a href="https://research.vmware.com/" target="blank">VMware Research Group</a></td></tr>
+<tr><td style="border:none; padding-right:2em; white-space:nowrap;">June 2021 &ndash; Sept. 2021</td><td style="border:none;">Research internship, <a href="https://research.vmware.com/" target="blank">VMware Research Group</a></td></tr>
+<tr><td style="border:none; padding-right:2em; white-space:nowrap;">June 2019 &ndash; Sept. 2019</td><td style="border:none;">Research internship, Oracle Inc</td></tr>
+<tr><td style="border:none; padding-right:2em; white-space:nowrap;">July 2017 &ndash; Sept. 2017</td><td style="border:none;">Research internship, <a href="https://www.cs.hku.hk/" target="blank">The University of Hong Kong (HKU)</a></td></tr>
+</table>}}
